@@ -69,3 +69,5 @@ htmlcov/
 # Other IDEs and editors
 .idea/
 *.swp
+
+config.py
